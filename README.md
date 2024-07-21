@@ -1,4 +1,4 @@
-# File Share 📁🌍
+# File Stream 📁🌍
 
 File Sharing est un projet qui permet de partager des fichiers entre ordinateurs à travers un réseau. Ce projet est composé d'un serveur et d'un client, avec une interface graphique optionnelle pour le client (client_gui). Les utilisateurs peuvent envoyer et recevoir des fichiers rapidement et facilement sur un réseau local par défaut, avec la possibilité d'ajuster les configurations IP pour une utilisation sur différents réseaux.
 
